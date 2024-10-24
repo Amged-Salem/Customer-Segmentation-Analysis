@@ -1,6 +1,6 @@
-# Customer-Segmentation-Analysis 
+Customer Segmentation Analysis
 Overview
-This project focuses on analyzing and segmenting customer sales data using SQL queries. The goal is to uncover insights from the sales_data_sample dataset by exploring key metrics such as product line performance, revenue trends over time, and deal size contributions. Additionally, the project introduces RFM (Recency, Frequency, Monetary) analysis, which is a widely used customer segmentation technique to help identify high-value customers and optimize marketing strategies.
+This project focuses on analyzing and segmenting customer sales data using SQL queries. The goal is to uncover insights from the sales_data_sample dataset by exploring key metrics such as product line performance, revenue trends over time, and deal size contributions. Additionally, the project introduces RFM (Recency, Frequency, Monetary) analysis, a widely used customer segmentation technique to help identify high-value customers and optimize marketing strategies.
 
 Dataset
 The analysis is based on the sales_data_sample dataset, which includes the following dimensions:
@@ -14,7 +14,7 @@ Territory
 Month
 SQL Queries
 1. Unique Values Exploration
-The initial queries help to check for unique values in the dataset for different dimensions, including:
+The initial queries check for unique values in the dataset for different dimensions, including:
 
 Status
 Year
@@ -49,7 +49,7 @@ The RFM values can then be assigned scores (e.g., 1 to 5) based on percentile ra
 
 How to Use
 Database: Make sure the dataset sales_data_sample is imported into a database accessible via SQL.
-Run the Queries: You can run each section of the SQL script individually to analyze the data by the respective dimensions.
+Run the Queries: Run each section of the SQL script individually to analyze the data by the respective dimensions.
 RFM Analysis: Expand on the existing queries to calculate Recency, Frequency, and Monetary values for each customer.
 Visualizations: The script provides several useful grouping operations that can be visualized using BI tools like Power BI or Tableau for better insight.
 Future Improvements
