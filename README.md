@@ -60,7 +60,7 @@ The RFM values can then be assigned scores (e.g., 1 to 5) based on percentile ra
 
 The following is a sample visualization created using Tableau to better understand the revenue trends across different product lines:
 
-![Tableau Screenshot](Dashboard1.png)
+![Tableau Screenshot](Dashboard 1.png)
 
 
 ## Future Improvements
