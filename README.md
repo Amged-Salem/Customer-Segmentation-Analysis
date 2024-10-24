@@ -56,6 +56,12 @@ The RFM values can then be assigned scores (e.g., 1 to 5) based on percentile ra
 2. **Run the Queries**: Run each section of the SQL script individually to analyze the data by the respective dimensions.
 3. **RFM Analysis**: Expand on the existing queries to calculate Recency, Frequency, and Monetary values for each customer.
 4. **Visualizations**: The script provides several useful grouping operations that can be visualized using BI tools like Power BI or Tableau for better insight.
+   ## Visualizations
+
+The following is a sample visualization created using Tableau to better understand the revenue trends across different product lines:
+
+![Tableau Screenshot](images/Dashboard1.png)
+
 
 ## Future Improvements
 - Incorporate additional dimensions like **country** and **territory** into the analysis.
