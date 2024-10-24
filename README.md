@@ -58,9 +58,7 @@ The RFM values can then be assigned scores (e.g., 1 to 5) based on percentile ra
 4. **Visualizations**: The script provides several useful grouping operations that can be visualized using BI tools like Power BI or Tableau for better insight.
    ## Visualizations
 
-The following is a sample visualization created using Tableau to better understand the revenue trends across different product lines:
 
-![Tableau Screenshot](Dashboard 1.png)
 
 
 ## Future Improvements
